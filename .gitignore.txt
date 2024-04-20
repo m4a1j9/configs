@@ -1,5 +1,0 @@
-WoW
-Logitech/Instulled-driver
-Logitech/AppData-files
-AutoKey
-
